@@ -84,7 +84,7 @@
 
 ### 5. Environment Setup
 
-- Need to install some Node packages to support my GitHub pages.
+- Need to install some Node packages to support my GitHub pages. `npm i -g hexo-cli`
 
 ### 6. Fonts
 
