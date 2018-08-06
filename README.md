@@ -86,6 +86,8 @@
 
 - Need to install some Node packages to support my GitHub pages.
 
+### 6. Fonts
+
 ### Last. Sync Guide
 
 - VS Code configuration
