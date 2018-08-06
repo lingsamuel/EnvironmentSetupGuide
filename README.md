@@ -6,66 +6,84 @@
 
 ### 2. General Softwares
 
+[SSR]()
+
+[Chrome](https://www.google.com/chrome/?brand=CHBD)
+
 [7-zip](https://www.7-zip.org/download.html)
 
 [VS Code](https://code.visualstudio.com/)
 
-[Git for Windows](https://git-scm.com/download/win)
-
 [Telegram Desktop](https://desktop.telegram.org/)
-
-[Node JS](https://nodejs.org/en/download/)
-
-[Jetbrains Toolbox](https://www.jetbrains.com/toolbox/download/#section=windows)
 
 [Typora](https://typora.io/#windows) Typora should be installed at `default path` because its updater will install newer version in `default path`.
 
 [Everything](https://www.voidtools.com/)
 
-[SSR]()
-
 [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/)
 
 [KeePass]()
 
-[PDF-XChange-Viewer]()
+[PDF-XChange-Viewer](https://www.tracker-software.com/product/pdf-xchange-viewer)
+
+[IDM]() or [Free Download Manager](http://www.freedownloadmanager.org/download.htm)
+
+[Manic Time](https://www.manictime.com/download)
 
 ### 3. Special Softwars
 
-[CLIP STUDIO]() or [SAI]() or [Krita]()
+#### Code
 
-[Photoshop]()
+[Git for Windows](https://git-scm.com/download/win)
 
-[IDM]() or [FDM]()
+[Node JS](https://nodejs.org/en/download/)
 
 [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+
+[JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 [Golang](https://golang.org/dl/)
 
 [Python](https://www.python.org/downloads/windows/), just default settings.
 
-[Manic Time](https://www.manictime.com/download)
-
-[Muse Score 2]() and [FL Studio]()
-
-[OBS Studio]()
-
-[Scrivener]()
-
-[Protoc]()
+[Jetbrains Toolbox](https://www.jetbrains.com/toolbox/download/#section=windows)
 
 [Tiled]()
 
-[Unity]()
+[Unity](https://unity3d.com/cn/get-unity/download)
 
-[manuskript]()
+#### Paint
+
+[CLIP STUDIO]() or [SAI]() or [Krita]()
+
+[Photoshop]()
 
 [Pose Studio]()
 
+#### Write
+
+[Scrivener]()
+
+[manuskript]()
+
+#### Compose
+
+[Muse Score 2]() and [FL Studio]()
+
+#### Other
+
+[OBS Studio]()
+
+
 ### 4. Path
+
+- Python installer won't setup Python path.
+
 
 
 ### 5. Environment Setup
+
+- Need to install some Node packages to support my GitHub pages.
 
 ### Last. Sync Guide
 
@@ -73,3 +91,5 @@
 - Jetbrains IDEs configuration
 - .ssh, maybe.
 - Manic Time database <- Important
+- git.config
+- 
