@@ -77,8 +77,9 @@
 
 ### 4. Path
 
-- Python installer won't setup Python path.
+- Python path.
 
+- Java path.
 
 
 ### 5. Environment Setup
