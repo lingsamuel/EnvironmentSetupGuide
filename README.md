@@ -6,7 +6,7 @@
 
 ### 2. General Softwares
 
-[SSR]()
+[V2RayN](https://github.com/2dust/v2rayN/releases)
 
 [Chrome](https://www.google.com/chrome/?brand=CHBD)
 
@@ -54,6 +54,10 @@
 
 [Unity](https://unity3d.com/cn/get-unity/download)
 
+Docker
+
+WSL
+
 #### Paint
 
 [CLIP STUDIO]() or [SAI]() or [Krita]()
@@ -92,9 +96,9 @@
 
 ### Last. Sync Guide
 
-- VS Code configuration
-- Jetbrains IDEs configuration
-- .ssh, maybe.
+- VS Code configuration/extensions
+- Jetbrains IDEs configuration/plugins
+- .ssh keys, configs (and proxies)
 - Manic Time database <- Important
-- git.config
-- 
+- global .gitconfig and .gitignore
+- .zshrc
