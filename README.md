@@ -96,9 +96,9 @@ WSL
 
 ### 6. Fonts
 
-### Registies
+### 7. Registries
 
-There are many registies need to be set, such as msys2 pacman, npm, etc.
+There are many registries need to be set, such as msys2 pacman, npm, etc.
 
 ### Last. Sync Guide
 
