@@ -96,6 +96,10 @@ WSL
 
 ### 6. Fonts
 
+### Registies
+
+There are many registies need to be set, such as msys2 pacman, npm, etc.
+
 ### Last. Sync Guide
 
 - VS Code configuration/extensions
