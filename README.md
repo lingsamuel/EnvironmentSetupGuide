@@ -34,9 +34,11 @@
 
 #### Code
 
+MSYS2 saving lives: [msys2](https://www.msys2.org/).
+
 [Git for Windows](https://git-scm.com/download/win)
 
-[MinGW](https://osdn.net/projects/mingw/releases/) or better [msys2](https://www.msys2.org/)
+[MinGW](https://osdn.net/projects/mingw/releases/)
 
 [Node JS](https://nodejs.org/en/download/)
 
