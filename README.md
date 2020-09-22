@@ -38,7 +38,7 @@ MSYS2 saving lives: [msys2](https://www.msys2.org/).
 
 [Git for Windows](https://git-scm.com/download/win)
 
-[MinGW](https://osdn.net/projects/mingw/releases/)
+[MinGW-64](http://mingw-w64.org/doku.php)
 
 [Node JS](https://nodejs.org/en/download/)
 
