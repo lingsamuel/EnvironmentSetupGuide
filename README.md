@@ -24,7 +24,7 @@
 
 [KeePass]()
 
-[PDF-XChange-Viewer](https://www.tracker-software.com/product/pdf-xchange-viewer)
+[PDF-XChange-Editor](https://www.tracker-software.com/product/pdf-xchange-editor)
 
 [IDM]() or [Free Download Manager](http://www.freedownloadmanager.org/download.htm)
 
