@@ -36,7 +36,7 @@
 
 [Git for Windows](https://git-scm.com/download/win)
 
-[MinGW](https://osdn.net/projects/mingw/releases/)
+[MinGW](https://osdn.net/projects/mingw/releases/) or better [msys2](https://www.msys2.org/)
 
 [Node JS](https://nodejs.org/en/download/)
 
